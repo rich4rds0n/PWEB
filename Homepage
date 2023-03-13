@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="stylesheet" type="text/css" href="homepage.css">
+</head>
+<body>
+    <header>
+        <a href=""></a>
+    </header>
 
+    <nav>
+        <ul class="lista">
+            <li class="item"><a href="">Inicio</a></li>
+            <li class="item"><a href="">Projetos</a></li>
+            <li class="item"><a href="">Sobre nós</a></li>
+            <li class="item"><a href="">Contatos</a></li>
+        </ul>
+    </nav>
+    <br>
+
+    <article class="corpo">
+        <h2 id="titulo">CodeYote</h2>
+        <br>
+        
+        <p id="subtitulo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti impedit temporibus quas distinctio dolorem neque, quis tempore quam similique! Incidunt nam quaerat velit obcaecati in blanditiis quia labore nobis repudiandae.</p>
+        <br>
+
+        <h3>Projetos</h3>
+        <br>
+
+        <h3>Sobre nós</h3>
+        <br>
+
+        <h3>Contatos</h3>
+    </article>
+</body>
+</html>
